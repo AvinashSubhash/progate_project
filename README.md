@@ -10,7 +10,7 @@ Functions:-
 
 1.Pressing the Login button open a popup window asking email and password.
   
-2.Clicking on the Signup link below the Login button will take you to the Signup page
+2.Clicking on the Signup link below the Login button(in popup window) will take you to the Signup page
 
 NOTE:- Please do download all the files including image files as all the features added in this webpage are offline
 
