@@ -12,5 +12,7 @@ Functions:-
   
 2.Clicking on the Signup link below the Login button will take you to the Signup page
 
+NOTE:- Please do download all the files including image files as all the features added in this webpage are offline
+
 
 developed by-Avinash S 
